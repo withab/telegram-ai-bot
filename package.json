@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "openai": "^3.0.0",
+    "telegram-bot-api": "^2.0.1"
+  },
+  "name": "telegram-ai-bot",
+  "description": "A Telegram Bot linked to **GPT-3**, an AI developed for [OpenAI](https://openai.com)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "withan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/withab/telegram-ai-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/withab/telegram-ai-bot/issues"
+  },
+  "homepage": "https://github.com/withab/telegram-ai-bot#readme"
+}
