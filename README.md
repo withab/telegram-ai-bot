@@ -5,7 +5,7 @@ A Telegram Bot linked to **GPT-3**, an AI developed for [OpenAI](https://openai.
 
 # Running
 
-1. Make sure to file config.json
+1. Make sure to fill config.json
 2. Install nodejs
 3. Run `npm install`
 4. Run `npm start`
